@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	<title>Test Page</title>
+</head>
+<body>
+<div id="header">
+	<div id="navbar">
+		<ul>
+			<li>HOME</li>
+			<li>ABOUT ME</li>
+			<li>GREAT ADVENTURES</li>
+			<li>CONTACT</li>
+		</ul>
+	</div>
+	<h2>GREAT ADVENTURES</h2>
+	</div>
+	<div id="left">
+	<img src="http://3.bp.blogspot.com/_CtDhX6-5ywo/SVRFrJkcVwI/AAAAAAAACkY/pzxfljSE2cI/s400/Robert+Louis+Stevenson+St.+Park+%28Table+Rock+Trail+Feb+07%29+177.jpg"/>
+		<p>There are so many great places to go hiking, biking, Geocaching and camping. I am just beginning to scratch the surface. I can't wait to log my new discoveries!</p>
+		</div>
+		<div id="right">
+
+		</div>
+		<div id="footer">
+			<div id="button">
+				<p>Send me an <span class="bold">e-mail</span>!</p>
+			</div>
+		</div>
+	</body>
+    </html>
